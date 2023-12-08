@@ -7,19 +7,6 @@
 <br/>
 <br/>
 
-- Name **Reidho Satria** / **レイドー・サトリア**
-
-- Live in **South Sumatra, Indonesia**
-
-- Studying [**Junior Back-End Developer**](https://dicoding.com)
-
-- Familiar with **GNU/Linux** and **FreeBSD**
-
-- Good with **JavaScript** , **PHP** , **CSS** , **HTML** and **Python**
-
-- Have high experience with **Photoshop** and **CorelDRAW**
-  
-- Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
@@ -28,14 +15,7 @@
 <br/>
 <br/>
   
-- 📗 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
-  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
-- 📘 [***elliottophellia/yakumo***](https://github.com/elliottophellia/yakumo) <br/>
-  FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5
-- 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
-  A simple webshell build in PHP 7 for penetration testing and educational purposes only. ( it's not other webshell's recode )
-- 📒 [***elliottophellia/kaga***](https://github.com/elliottophellia/kaga) <br/>
-  Kaga is a reverse IP lookup tool written in Python, comes with a CLI, GUI and API to make it easy to use in any environment.
+
   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
